@@ -1,6 +1,6 @@
 # Class Resources & Assignments
 
-## 📌 Today's Class Code  
+## 📌 Class 1 Code  
 The code for today's class can be accessed on Google Colab:  
 🔗 [Class Notebook](https://colab.research.google.com/drive/19fJt9TIgtYEACx-iK_xIqHSa-qz4V6SP?usp=sharing)  
 
