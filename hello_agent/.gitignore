@@ -1,0 +1,5 @@
+# Add ENV to gitignore
+.env
+
+# Add VENV to gitignore
+.venv
